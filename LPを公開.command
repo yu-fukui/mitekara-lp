@@ -20,7 +20,7 @@ echo "GitHub へ送信します…"
 if git push origin HEAD; then
   echo
   echo "${GREEN}✔ 送信しました${RESET}"
-  echo "  反映まで1〜2分かかります： https://yasu29fr.github.io/mitekara-lp/"
+  echo "  反映まで1〜2分かかります： https://yu-fukui.github.io/mitekara-lp/"
   echo "  ページが古いままなら、Command+Shift+R で再読み込みしてください。"
 else
   echo
